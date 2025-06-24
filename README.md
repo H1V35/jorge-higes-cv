@@ -7,8 +7,25 @@
 ## Installation
 
 ```bash
+# Install dependencies
 bun install
+
+# Run in development mode (with watch)
+bun run build:css
+
+# Build for production
+bun run build
 ```
+
+## 🌐 GitHub Pages
+
+This project is configured to automatically deploy to GitHub Pages using GitHub Actions.
+
+The page will be available at: `https://[your-username].github.io/[repo-name]/`
+
+## 📝 License
+
+MIT
 
 ## Development
 

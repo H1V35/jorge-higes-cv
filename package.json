@@ -2,7 +2,8 @@
   "name": "jorge-higes-cv",
   "version": "1.0.0",
   "scripts": {
-    "build:css": "bunx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+    "build:css": "bunx tailwindcss -i ./src/input.css -o ./src/output.css --watch",
+    "build": "bunx tailwindcss -i ./src/input.css -o ./src/output.css"
   },
   "devDependencies": {
     "tailwindcss": "^4.1.10",
