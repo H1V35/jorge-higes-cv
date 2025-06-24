@@ -1,0 +1,11 @@
+{
+  "name": "jorge-higes-cv",
+  "version": "1.0.0",
+  "scripts": {
+    "build:css": "bunx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^4.1.10",
+    "@tailwindcss/cli": "^4.1.10"
+  }
+}
