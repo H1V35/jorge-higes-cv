@@ -21,11 +21,7 @@ bun run build
 
 This project is configured to automatically deploy to GitHub Pages using GitHub Actions.
 
-The page will be available at: `https://[your-username].github.io/[repo-name]/`
-
-## 📝 License
-
-MIT
+The page will be available at: `[https://h1v35.github.io/jorge-higes-cv](https://h1v35.github.io/jorge-higes-cv/)`
 
 ## Development
 
